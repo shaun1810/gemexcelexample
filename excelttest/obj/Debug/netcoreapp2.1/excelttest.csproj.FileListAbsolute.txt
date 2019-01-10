@@ -1,0 +1,11 @@
+c:\users\shaun smith\source\repos\excelttest\excelttest\bin\Debug\netcoreapp2.1\excelttest.deps.json
+c:\users\shaun smith\source\repos\excelttest\excelttest\bin\Debug\netcoreapp2.1\excelttest.runtimeconfig.json
+c:\users\shaun smith\source\repos\excelttest\excelttest\bin\Debug\netcoreapp2.1\excelttest.runtimeconfig.dev.json
+c:\users\shaun smith\source\repos\excelttest\excelttest\bin\Debug\netcoreapp2.1\excelttest.dll
+c:\users\shaun smith\source\repos\excelttest\excelttest\obj\Debug\netcoreapp2.1\excelttest.csprojAssemblyReference.cache
+c:\users\shaun smith\source\repos\excelttest\excelttest\obj\Debug\netcoreapp2.1\excelttest.csproj.CoreCompileInputs.cache
+c:\users\shaun smith\source\repos\excelttest\excelttest\obj\Debug\netcoreapp2.1\excelttest.AssemblyInfoInputs.cache
+c:\users\shaun smith\source\repos\excelttest\excelttest\obj\Debug\netcoreapp2.1\excelttest.AssemblyInfo.cs
+c:\users\shaun smith\source\repos\excelttest\excelttest\bin\Debug\netcoreapp2.1\excelttest.pdb
+c:\users\shaun smith\source\repos\excelttest\excelttest\obj\Debug\netcoreapp2.1\excelttest.dll
+c:\users\shaun smith\source\repos\excelttest\excelttest\obj\Debug\netcoreapp2.1\excelttest.pdb
